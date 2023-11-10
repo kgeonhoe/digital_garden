@@ -4,7 +4,7 @@ title: Home
 id: home
 permalink: /
 ---
-
+https://harmonious-kangaroo-a073ac.netlify.app/https://harmonious-kangaroo-a073ac.netlify.app/
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
@@ -31,3 +31,5 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
     max-width: 46em;
   }
 </style>
+
+[[Untitled 2]]
